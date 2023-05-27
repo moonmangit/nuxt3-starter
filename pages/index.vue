@@ -11,8 +11,11 @@
 const { increment, $state } = useTestStore();
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 * {
   font-family: "Noto Sans Thai", sans-serif;
+  h2 {
+    color: red;
+  }
 }
 </style>

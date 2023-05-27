@@ -4,3 +4,6 @@ in this repos, i created a simple nuxt3 starter template using,
 1. Nuxt Icon
 2. Google Fonts
 3. Pinia
+
+## Custom
+1. Sass + Sass Loader
