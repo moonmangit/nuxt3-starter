@@ -5,6 +5,13 @@ export default defineNuxtConfig({
   imports: {
     dirs: ["stores"],
   },
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
+  css: ["~/assets/css/main.css"],
 
   // modules options
   googleFonts: {
