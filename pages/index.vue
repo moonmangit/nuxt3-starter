@@ -3,7 +3,7 @@
     <h2>hello world</h2>
     <icon size="24px" name="ic:content-cut"></icon>
     {{ $state.state.count }}
-    <button @click="increment">add</button>
+    <button class="bg-red-500 p-2 rounded-full" @click="increment">add</button>
     {{ x }}, {{ y }}
   </div>
 </template>
