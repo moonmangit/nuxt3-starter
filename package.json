@@ -18,6 +18,7 @@
   "dependencies": {
     "@nuxtjs/google-fonts": "^3.0.1",
     "@pinia/nuxt": "^0.4.11",
+    "daisyui": "^2.51.6",
     "nuxt-icon": "^0.4.1",
     "pinia": "^2.1.3"
   },
