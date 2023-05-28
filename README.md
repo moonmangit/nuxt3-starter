@@ -7,3 +7,4 @@ in this repos, i created a simple nuxt3 starter template using,
 
 ## Custom
 1. Tailwind CSS
+2. Sass + Sass Loader
